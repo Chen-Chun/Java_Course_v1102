@@ -23,7 +23,7 @@
 #### Section 01: Classes and Objects
 * 教學影片
     * Unit1 Lab02-Lab04 : https://youtu.be/gQuvM7UeL5U
-    * 
+
 #### Section 02: Inheritance and Methods
 * 教學影片
     * StaticMethods (2020.03.18) : https://youtu.be/Xw8PQTTKnUU
@@ -70,7 +70,6 @@
 #### Section 02: Static vs Instance, Class vs Object
 * 教學影片
     * Unit2 Lab04-09 : https://youtu.be/yUaPivg5yu0
- 
 
 #### Section 03: Animation
 * 教學影片
