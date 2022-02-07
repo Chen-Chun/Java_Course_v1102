@@ -4,6 +4,7 @@
 * Facebook 社團：https://www.facebook.com/groups/JavaThruCoding
 
 ![](./static/images/qrcode.png)
+* 教材資源：https://compsci.sites.tjhsst.edu/CSweb/index.html
 
 <!----註解符號，不顯示--->
 <!---原課程網頁: http://ntustee303.weebly.com/ --->
@@ -32,12 +33,12 @@
 
 ## 評分標準
 ### 1.正課評分：
--期中、期未線上考試：30％；30％
--兩人一組期末專題：40%
+&emsp;-期中、期未線上考試：30％；30％<br>
+&emsp;-兩人一組期末專題：40%<br>
 &emsp;&emsp;(滿分由同儕評分後經由排序調整為60~100平均分佈)
 ### 2.實習課評分：
--每週進度：50%
--兩人一組期末專題：50%
+&emsp;-每週進度：50%<br>
+&emsp;-兩人一組期末專題：50%<br>
 &emsp;&emsp;(滿分由同儕評分後經由排序調整為60~100平均分佈)
 
 
