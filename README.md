@@ -4,6 +4,7 @@
 * Facebook 社團：https://www.facebook.com/groups/JavaThruCoding
 
 ![](./static/images/qrcode.png)
+* 教材資源：https://compsci.sites.tjhsst.edu/CSweb/index.html
 
 <!----註解符號，不顯示--->
 <!---原課程網頁: http://ntustee303.weebly.com/ --->
