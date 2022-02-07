@@ -23,8 +23,8 @@
 | 9  | 4/13     | 4/15      |§2 Static vs Instance, Class vs Object | 04,05,06                  |Unit2 Lab04~09     |
 | 10 | 4/20     | 4/22      |§3 Animation                           | 07,08,09                  |                   |
 | 11 | 4/27     | 4/29      |§3 Animation (Cont’d)                  | 10,11,12,13               |Unit2 Lab10 <br> Unit2 Lab11~13|
-| 12 | 5/4      | 5/6       |§3 Animation (Cont’d)                  | 14,15,16,17               |Unit2 Lab14、Lab15 <br> 、Lab16、Lab17 |
-| 13 | 5/11     | 5/13      |§3 Animation (Cont’d)                  | 18,19,20                  |Unit2 Lab18、Lab19 <br> 、Lab20 |
+| 12 | 5/4      | 5/6       |§3 Animation (Cont’d)                  | 14,15,16,17               |Unit2 Lab14；Unit2 Lab15<br>Unit2 Lab16；Unit2 Lab17 |
+| 13 | 5/11     | 5/13      |§3 Animation (Cont’d)                  | 18,19,20                  |Unit2 Lab18；Unit2 Lab19<br>Unit2 Lab20 |
 | 14 | 5/18     | 5/20      |**{星際大戰}專題 demo**            | **自選專題 demo**  |                                          |  
 | 15 | 5/25     | 5/27      |**{俄羅斯方塊}專題 demo**          | **自選專題 demo**  |                                          |
 | 16 | 6/1      |           |**正課期末考**                          |                           |**學校最後一週上課**                       |
