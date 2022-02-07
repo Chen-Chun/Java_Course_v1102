@@ -127,7 +127,7 @@
 * 影片連結
     * Java 期末專題-星際大戰01 : https://youtu.be/9Wmr_NOfTrQ
     * Java 期末專題-星際大戰02 : https://youtu.be/qN_D1NXZmQI 
-#### 星際大戰
+#### 俄羅斯方塊
 * 影片連結
     * Java 期末專題-俄羅斯方塊01 : https://youtu.be/trfR_Z98Ob0
     * Java 期末專題-俄羅斯方塊02 : https://youtu.be/GiY0LoWeclU
