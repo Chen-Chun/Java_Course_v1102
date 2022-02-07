@@ -1,19 +1,19 @@
-# 課程 : JAVA程式設計與實習(JAVA)
-* 本資源庫統整鍾聖倫教授所開授的「JAVA程式設計與實習」課程資源，內涵課程影片連結、授課教材以及範例程式檔案，同學們可以配合本資源庫學習使用。
+# 課程 : Java程式設計與實習
+* 本資源庫統整鍾聖倫教授所開授的「Java程式設計與實習」課程資源，內涵課程影片連結、授課教材以及範例程式檔案，同學們可以配合本資源庫學習使用。
 * 本課程分為正課與實習課，正課講解概念，實習是寫程式。
 <!----註解符號，不顯示--->
 <!---原課程網頁: http://ntustee303.weebly.com/ --->
 <!----安裝教學與DEMO--->
 ## Eclipse and Course Demo
-#### 安裝JAVA Eclipse以及 JAVA八成品操作教學
-* JAVA 教材檔案
-    * JAVA程式教材文件 : https://drive.google.com/file/d/0B8kdK4ZGdqBlR01sS1hIYnVXY1k/view 
-    * JAVA程式八成品下載 : https://drive.google.com/file/d/0B3CpuhyoyGIXdzVJNEZhNWZoME0/view
+#### 安裝Java Eclipse以及 Java八成品操作教學
+* Java 教材檔案
+    * Java程式教材文件 : https://drive.google.com/file/d/0B8kdK4ZGdqBlR01sS1hIYnVXY1k/view 
+    * Java程式八成品下載 : https://drive.google.com/file/d/0B3CpuhyoyGIXdzVJNEZhNWZoME0/view
 * 教學影片
-    * 本學期JAVA課程 JAVA-JDK版本為17.0.2 , Eclipse版本為2021.12
-    * 110學年JAVA課程-安裝教學影片連結 (2022.02.07): 
-    * 109學年JAVA課程-安裝教學影片連結 (2021.02.23): https://youtu.be/warLHO9zm6k  
-    * 108學年JAVA課程-安裝教學影片連結 (2020.02.05): https://youtu.be/qQdqUktkSkM
+    * 本學期Java課程 Java-JDK版本為17.0.2 , Eclipse版本為2021.12
+    * 110學年Java課程-安裝教學影片連結 (2022.02.07): 
+    * 109學年Java課程-安裝教學影片連結 (2021.02.23): https://youtu.be/warLHO9zm6k  
+    * 108學年Java課程-安裝教學影片連結 (2020.02.05): https://youtu.be/qQdqUktkSkM
     * Lab00-Lab01執行結果 : https://youtu.be/_20XJ5_ud2Q
 * 解答影片
     * Lab00 Ans: https://youtu.be/TnicxohFT5o
@@ -90,9 +90,9 @@
 ## Final Project Demo
 #### 星際大戰
 * 影片連結
-    * JAVA 期末專題-星際大戰01 : https://youtu.be/9Wmr_NOfTrQ
-    * JAVA 期末專題-星際大戰02 : https://youtu.be/qN_D1NXZmQI 
+    * Java 期末專題-星際大戰01 : https://youtu.be/9Wmr_NOfTrQ
+    * Java 期末專題-星際大戰02 : https://youtu.be/qN_D1NXZmQI 
 #### 星際大戰
 * 影片連結
-    * JAVA 期末專題-俄羅斯方塊01 : https://youtu.be/trfR_Z98Ob0
-    * JAVA 期末專題-俄羅斯方塊02 : https://youtu.be/GiY0LoWeclU
+    * Java 期末專題-俄羅斯方塊01 : https://youtu.be/trfR_Z98Ob0
+    * Java 期末專題-俄羅斯方塊02 : https://youtu.be/GiY0LoWeclU
