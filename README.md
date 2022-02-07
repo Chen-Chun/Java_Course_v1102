@@ -10,7 +10,7 @@
 <!----安裝教學與DEMO--->
 
 ## 週次表 
-| 週  |正課|實習課|       正課教學內容       |    實習課內容    | 影片範圍 |
+| 週  |正課|實習|       正課教學內容       |    實習課內容    | 影片範圍 |
 |:--:|:---:|:-----:|:-----------------------:|:---------------------|:---------------------------------------|
 | 1  | 2/16     | 2/18      |**Eclipse and Course Demo**          | **Unit1/** <br>00,01  |安裝 FCPS JKarel 的程式 <br>  Lab00~Lab01|
 | 2  | 2/23     | 2/25      |**Unit1** <br> §1 Classes and Objects| 02,03,04              |Lab02~Lab04                              |
@@ -23,8 +23,8 @@
 | 9  | 4/13     | 4/15      |§2 Static vs Instance, Class vs Object | 04,05,06                  |Unit2 Lab04~09     |
 | 10 | 4/20     | 4/22      |§3 Animation                           | 07,08,09                  |                   |
 | 11 | 4/27     | 4/29      |§3 Animation (Cont’d)                  | 10,11,12,13               |Unit2 Lab10 <br> Unit2 Lab11~13|
-| 12 | 5/4      | 5/6       |§3 Animation (Cont’d)                  | 14,15,16,17               |Unit2 Lab14; Unit2 Lab15 <br>  Unit2 Lab16; Unit2 Lab17 |
-| 13 | 5/11     | 5/13      |§3 Animation (Cont’d)                  | 18,19,20                  |Unit2 Lab18; Unit2 Lab19 <br> Unit2 Lab20 |
+| 12 | 5/4      | 5/6       |§3 Animation (Cont’d)                  | 14,15,16,17               |Unit2 Lab14、Lab15 <br> 、Lab16、Lab17 |
+| 13 | 5/11     | 5/13      |§3 Animation (Cont’d)                  | 18,19,20                  |Unit2 Lab18、Lab19 <br> 、Lab20 |
 | 14 | 5/18     | 5/20      |**{星際大戰}專題 demo**            | **自選專題 demo**  |                                          |  
 | 15 | 5/25     | 5/27      |**{俄羅斯方塊}專題 demo**          | **自選專題 demo**  |                                          |
 | 16 | 6/1      |           |**正課期末考**                          |                           |**學校最後一週上課**                       |
