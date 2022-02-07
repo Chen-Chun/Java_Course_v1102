@@ -3,7 +3,7 @@
 * 本課程分為正課與實習課，正課講解概念，實習是寫程式。
 * Facebook 社團：https://www.facebook.com/groups/JavaThruCoding
 
-* ![](./static/images/qrcode.jpg)
+![](./static/images/qrcode.png)
 
 <!----註解符號，不顯示--->
 <!---原課程網頁: http://ntustee303.weebly.com/ --->
