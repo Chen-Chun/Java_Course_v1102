@@ -9,6 +9,8 @@
       * 影片：https://youtu.be/vV4CyK9XonM
    * FCPS Unit1 Lab10
       * 影片：https://youtu.be/3RZJST76yNs
+   * Algorithm (Lab10 Maze Escape) (2020.04.01)：
+      * 影片：https://youtu.be/hrQZZ3fefH8
 
 ## 解答
   * Lab 解答影片
