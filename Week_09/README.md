@@ -1,7 +1,7 @@
 # Week_09
 
 ## Unit2 §2 Static vs Instance, Class vs Object
-   * FCPS Unit2 Lab04-09
+   * FCPS Unit2 Lab04~09
       * 影片：https://youtu.be/yUaPivg5yu0
 
 ## 解答
