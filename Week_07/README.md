@@ -1,14 +1,16 @@
-# Week_01
+# Week_07
 
-## Eclipse and Course Demo
-   * Java、Eclipse和JKarel八成品安裝
-      * 教學影片：https://youtu.be/SbAx0jtsALc
-   * Lab00~Lab01
-      * 影片：https://youtu.be/_20XJ5_ud2Q
+## Unit2 §1 Graphics
+   * Unit2GUIOverView (2020.04.22) 
+      * 影片：https://youtu.be/3pCpb8Kn2cs
+   * JFrameJPanel (2020.04.22)   
+      * 影片：https://youtu.be/j96CGdLqKPE
+   * FCPS Unit2 Lab00-03
+      * 影片：https://youtu.be/Djg3uGO05_E
 
 ## 解答
-<!--
   * Lab 解答影片
-      * Lab00 Ans：https://youtu.be/TnicxohFT5o
-      * Lab0 Ans：https://youtu.be/9_czB2AxUv4
--->
+      * Unit2 Lab00 Ans : https://youtu.be/ZSY4NcphR6Q
+      * Unit2 Lab01 Ans : https://youtu.be/wUgsbvgHvO4
+      * Unit2 Lab02 Ans : https://youtu.be/dMf3VMIyTnA
+      * Unit2 Lab03 Ans : https://youtu.be/KbRz91NPcF8
