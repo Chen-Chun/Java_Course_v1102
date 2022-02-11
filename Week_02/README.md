@@ -1,14 +1,14 @@
-# Week_01
+# Week_02
 
-## Eclipse and Course Demo
-   * Java、Eclipse和JKarel八成品安裝
-      * 教學影片：https://youtu.be/SbAx0jtsALc
-   * Lab00~Lab01
-      * 影片：https://youtu.be/_20XJ5_ud2Q
+## Unit1 §1 Classes and Objects
+
+   * Lab02~Lab04
+      * 影片：https://youtu.be/gQuvM7UeL5U
 
 ## 解答
 <!--
   * Lab 解答影片
-      * Lab00 Ans：https://youtu.be/TnicxohFT5o
-      * Lab0 Ans：https://youtu.be/9_czB2AxUv4
+      * Unit1 Lab02 Ans : https://youtu.be/DPrmd2R8Qn4
+      * Unit1 Lab03 Ans : https://youtu.be/Y64VJ0i9ljU
+      * Unit1 Lab04 Ans : https://youtu.be/AzM2TqzJ0JA
 -->
