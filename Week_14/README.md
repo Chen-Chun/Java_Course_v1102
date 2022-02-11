@@ -1,11 +1,8 @@
-# Week_09
+# Week_14
 
-## Unit2 §2 Static vs Instance, Class vs Object
-   * FCPS Unit2 Lab04~09
-      * 影片：https://youtu.be/yUaPivg5yu0
+## {星際大戰}專題 demo
+   * 參考影片
+      * JAVA 期末專題-星際大戰01 : https://youtu.be/9Wmr_NOfTrQ
+      * JAVA 期末專題-星際大戰02 : https://youtu.be/qN_D1NXZmQI
 
-## 解答
-  * Lab 解答影片
-      * Unit2 Lab04 Ans : https://youtu.be/a34gEq4s0Bo
-      * Unit2 Lab05 Ans : https://youtu.be/e96wV1m8ZBo
-      * Unit2 Lab06 Ans : https://youtu.be/6V-vHa9YcCE
+## 實習課-自選專題 demo
