@@ -1,11 +1,11 @@
 # Week_03
 
 ## Unit1 §2 Inheritance and Methods
-   * Static Methods (2020.03.18) : 
+   * Static Methods (2020.03.18)
       * 影片：https://youtu.be/Xw8PQTTKnUU
-   * Flow Control (2020.03.18) :       
+   * Flow Control (2020.03.18)       
       * 影片：https://youtu.be/h0YrJaoCghk
-   * JOptionPane (2020.03.18) : 
+   * JOptionPane (2020.03.18) 
       * 影片：https://youtu.be/b7C1GgudBO8
    * FCPS Unit1 Lab05~Lab06
       * 影片：https://youtu.be/JKUYIzvwuMw
