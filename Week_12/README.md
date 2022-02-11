@@ -1,16 +1,22 @@
-# Week_07
+# Week_12
 
-## Unit2 §1 Graphics
-   * Unit2GUIOverView (2020.04.22) 
-      * 影片：https://youtu.be/3pCpb8Kn2cs
-   * JFrameJPanel (2020.04.22)   
-      * 影片：https://youtu.be/j96CGdLqKPE
-   * FCPS Unit2 Lab00-03
-      * 影片：https://youtu.be/Djg3uGO05_E
-
+## Unit2 §3 Animation (Cont’d)
+   * UMLOnFCPS (2020.05.20) 
+      * 影片：https://youtu.be/c-HmivGFX6Y
+   * MousePanel (2020.05.20) 
+      * 影片：https://youtu.be/C17-cuq9GXE
+   * Unit2 Lab14
+      * 影片：https://youtu.be/KzaSQDCLuy8
+   * Unit2 Lab15   
+      * 影片：https://youtu.be/4GdP0-1Asj8
+   * Unit2 Lab16
+      * 影片：https://youtu.be/U-DnIXry8Ys
+   * Unit2 Lab17   
+      * 影片：https://youtu.be/Us9_71Xy-fs
+      * 
 ## 解答
   * Lab 解答影片
-      * Unit2 Lab00 Ans : https://youtu.be/ZSY4NcphR6Q
-      * Unit2 Lab01 Ans : https://youtu.be/wUgsbvgHvO4
-      * Unit2 Lab02 Ans : https://youtu.be/dMf3VMIyTnA
-      * Unit2 Lab03 Ans : https://youtu.be/KbRz91NPcF8
+      * Unit2 Lab14 Ans : https://youtu.be/C5ZdmPtLdRk
+      * Unit2 Lab15 Ans : https://youtu.be/L-Mc4aYRKYE
+      * Unit2 Lab16 Ans : https://youtu.be/xZPVTnAD8Rc
+      * Unit2 Lab17 Ans : https://youtu.be/PnF86CRc818
