@@ -1,14 +1,17 @@
-# Week_01
+# Week_04
 
-## Eclipse and Course Demo
-   * Java、Eclipse和JKarel八成品安裝
-      * 教學影片：https://youtu.be/SbAx0jtsALc
-   * Lab00~Lab01
-      * 影片：https://youtu.be/_20XJ5_ud2Q
+## Unit1 §3 Algorithms and Polymorphism
+   * ClassTypeWithStringExample (== and .equals()) (2020.03.25)： 
+      * 影片：https://youtu.be/mnF591f05FA
+   * Casting (Upcasting and Downcasting) (2020.03.25)：    
+      * 影片：https://youtu.be/yu4ViYym9bE
+   * FCPS Unit1 Lab07~Lab09
+      * 影片：https://youtu.be/vV4CyK9XonM
+   * FCPS Unit1 Lab10
+      * 影片：https://youtu.be/3RZJST76yNs
 
 ## 解答
-<!--
   * Lab 解答影片
-      * Lab00 Ans：https://youtu.be/TnicxohFT5o
-      * Lab0 Ans：https://youtu.be/9_czB2AxUv4
--->
+      * Unit1 Lab08 Ans：https://youtu.be/GviJpIeKKGM
+      * Unit1 Lab09 Ans：https://youtu.be/PFXOT78Nr9c
+      * Unit1 Lab10 Ans：https://youtu.be/_K_jnKpUrwU
