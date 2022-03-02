@@ -4,7 +4,7 @@
 
    * FCPS Unit1 Lab02~Lab04
       * 影片：https://youtu.be/gQuvM7UeL5U
-   * 第二週 2022/2/23 <br>
+## 【第二週 2022/2/23 Lab02~Lab04】
 Lab02~Lab04 程式不多，但課本習題不少
 1. 熟悉使用 Eclipse: 寫 Lab00，關於 fields and methods；怎麼看 Robot, Display 的定義程式？
 2. Page 5: Exercises Lab00：關於 Display.SOUTH；default map；這些 exercise 可以在 eclipse 中試寫就可知道答案。請將課本中所有的 exercise 都寫過！
