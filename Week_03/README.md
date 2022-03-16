@@ -9,6 +9,10 @@
       * 影片：https://youtu.be/b7C1GgudBO8
    * FCPS Unit1 Lab05~Lab06
       * 影片：https://youtu.be/JKUYIzvwuMw
+   * MapBuilder
+      * 影片：https://youtu.be/5L5TknNHq2c
+   * EclipseDebug
+      * 影片：https://youtu.be/nBfycTLG814
 ## 【第三週 2022/3/2 Lab05~Lab07 (Page-29)】
 1. Syllabus https://github.com/NTUST-ICLab-Course/JAVA_Course_v1102
 2. Check Exercise, Part 1, page 17, on Newlab on class methods (or functions)
