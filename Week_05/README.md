@@ -1,6 +1,10 @@
 # Week_05
 
 ## Unit1 §4 Abstract Classes and Interfaces
+   * FCPS Unit1 Lab11~Lab12
+      * 影片：https://youtu.be/IVBUThXbZk8
+   * FCPS Unit1 Lab14~Lab16
+      * 影片：https://youtu.be/Xj3WybMRCso
    * AnstractClassAndInterface (2020.04.01) 
       * 影片：https://youtu.be/h4nolii0Mn8
    * SingleTreadToMultiThread (2020.04.08)   
@@ -11,11 +15,7 @@
       * 影片： https://youtu.be/3NbPVlG2E7c
    * Lab05Thread (2020.04.08)
       * 影片： https://youtu.be/2q3jhd-7RU4
-   * FCPS Unit1 Lab11~Lab12
-      * 影片：https://youtu.be/IVBUThXbZk8
 
-   * FCPS Unit1 Lab14~16
-      * 影片：https://youtu.be/Xj3WybMRCso
 
 ## 【第五週 2022/3/16 Lab11~Lab16 (Page-47)】
 1. Syllabus https://github.com/NTUST-ICLab-Course/JAVA_Course_v1102
