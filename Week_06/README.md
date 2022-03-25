@@ -46,6 +46,9 @@ for(int index = 0; index <7; index++)<br>
 }<br>
 11.	Page 59: Lab YY
 
+  * 2022/03/23 上課影片
+    * 影片：https://youtu.be/Jj5-uevUt0c  
+
 ## 解答
   * Lab 解答影片
       * Unit1 Lab17 Ans : https://youtu.be/JlO4Hy7-7F8
