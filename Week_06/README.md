@@ -5,12 +5,16 @@
       * 影片：https://youtu.be/DTPBTcHmKsI
    * FCPS Unit1 Lab17-19
       * 影片：https://youtu.be/gEEXK8TpK_Y
+   * How to generate javadoc in eclipse
+      * 影片：https://youtu.be/--Uy7wIV8Ds
       
 ## Appendix: Array and Recursive
    * Recursive (2020.04.15) 
       * 影片：https://youtu.be/x0r6EkhOxGU
    * RecursiveAdvanced (2020.04.15) 
       * 影片：https://youtu.be/5HwQc-m7S9c
+## 如何繳交期中考程式碼與執行結果
+  * 影片：https://www.youtube.com/watch?v=mqrbqfdhhw0
 
 ## 【第六週 2022/3/23 Lab17 ~ Lab19; LabXX, LabYY (Page-60, the end)】
 
