@@ -58,3 +58,5 @@ for(int index = 0; index <7; index++)<br>
       * Unit1 Lab17 Ans : https://youtu.be/JlO4Hy7-7F8
       * Unit1 Lab18 Ans : https://youtu.be/e7AMhJNnv1g
       * Unit1 Lab19 Ans : https://youtu.be/b2m8vkAvkTI
+      * Unit1 LabXX Ans : https://youtu.be/Qbw5qXrS-XE
+      * Unit1 LabYY Ans : https://youtu.be/FXpJvO65HIY
