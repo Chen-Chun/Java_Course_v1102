@@ -22,6 +22,8 @@
       * 影片：https://youtu.be/U-DnIXry8Ys
    * MousePanel (2020.05.20) 引用滑鼠的事件傾聽器的通例
       * 影片：https://youtu.be/C17-cuq9GXE
+   * Unit2 Lab17 Keyboard Input 加上鍵盤控制的互動機制
+      * 影片：https://youtu.be/Us9_71Xy-fs
    * Unit2 Lab15 Karel the Robot 到底 Robot 是怎麼顯示 move 的動畫感
       * 影片：https://youtu.be/4GdP0-1Asj8
    * UMLOnFCPS (2020.05.20) 怎麼分析複雜 package 的 UML 類別圖
